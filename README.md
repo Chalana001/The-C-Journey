@@ -5,10 +5,10 @@ Target: Reverse Engineering & Exploitation 🏴‍☠️
 ---
 
 ### ✅ C-0. Mental Model (Before Coding)
-- [x] **1. What is a program?** (Input -> Process -> Output)
-- [x] **2. Source code → Compiler → Binary** (Translation process)
-- [x] **3. What is Memory?** (The Hotel Analogy / Addresses)
-- [x] **4. CPU executes instructions, not code** (Opcodes vs Source)
+- [x] ~~**1. What is a program?** (Input -> Process -> Output)~~
+- [x] ~~**2. Source code → Compiler → Binary** (Translation process)~~
+- [x] ~~**3. What is Memory?** (The Hotel Analogy / Addresses)~~
+- [x]~~**4. CPU executes instructions, not code** (Opcodes vs Source)~~
 
 ---
 
