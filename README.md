@@ -22,13 +22,13 @@ Target: Reverse Engineering & Exploitation 🏴‍☠️
 
 ---
 
-### 🧠 C-2. Memory Fundamentals (THE BATTLEFIELD)
+### ✅ C-2. Memory Fundamentals (THE BATTLEFIELD)
 *This is where Engineers are separated from Coders.*
-- [ ] **1. RAM vs CPU Registers:** How data moves.
-- [ ] **2. Address vs Value:** Everything is a number.
-- [ ] **3. Memory Layout:** Text, Data, BSS, Stack, Heap.
-- [ ] **4. Stack Memory:** Stack Frames, Local variables.
-- [ ] **5. Static / Global Memory:** Scope and Lifetime.
+- [x] ~~**1. RAM vs CPU Registers:** How data moves.~~
+- [x] ~~**2. Address vs Value:** Everything is a number.~~
+- [x] ~~**3. Memory Layout:** Text, Data, BSS, Stack, Heap.~~
+- [x] ~~**4. Stack Memory:** Stack Frames, Local variables.~~
+- [x] ~~**5. Static / Global Memory:** Scope and Lifetime.~~
 
 ---
 
