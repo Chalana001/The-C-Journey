@@ -12,13 +12,13 @@ Target: Reverse Engineering & Exploitation 🏴‍☠️
 
 ---
 
-### 💻 C-1. The Setup & Core Syntax (Fast Track)
+### ✅ C-1. The Setup & Core Syntax (Fast Track)
 *Goal: Read C, Compile manually, Understand the Build.*
-- [ ] **1. Environment Setup:** GCC, VS Code, Linux/WSL terminal.
-- [ ] **2. The Build Process:** Preprocessor (`#include`) -> Compiler -> Linker.
-- [ ] **3. Entry Point:** `main(argc, argv)` and Command Line Arguments.
-- [ ] **4. I/O & Formats:** `printf`, `scanf` and Format Specifiers (`%d`, `%x`, `%s`).
-- [ ] **5. Control Flow:** Syntax differences from Java (if, loops).
+- [x] ~~**1. Environment Setup:** GCC, VS Code, Linux/WSL terminal.~~
+- [x] ~~**2. The Build Process:** Preprocessor (`#include`) -> Compiler -> Linker.~~
+- [x] ~~**3. Entry Point:** `main(argc, argv)` and Command Line Arguments.~~
+- [x] ~~**4. I/O & Formats:** `printf`, `scanf` and Format Specifiers (`%d`, `%x`, `%s`).~~
+- [x] ~~**5. Control Flow:** Syntax differences from Java (if, loops).~~
 
 ---
 
