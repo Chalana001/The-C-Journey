@@ -32,15 +32,15 @@ Target: Reverse Engineering & Exploitation 🏴‍☠️
 
 ---
 
-### 🗡️ C-3. Pointers (THE WEAPON)
+### ✅ C-3. Pointers (THE WEAPON)
 *Spend the MOST time here. No shortcuts.*
-- [ ] **1. Pointer Syntax:** `int *ptr`, `&` (Address of), `*` (Dereference).
-- [ ] **2. Pointer Arithmetic:** `ptr + 1` (Jumping by data type size).
-- [ ] **3. Pointers vs Arrays:** How `arr[i]` is actually `*(arr + i)`.
-- [ ] **4. Pointers to Pointers:** `**ptr` (Handling complex data).
-- [ ] **5. Function Arguments:** Pass by Reference vs Pass by Value.
-- [ ] **6. Dangling Pointers:** Accessing dead memory.
-- [ ] **7. NULL Pointers:** The Billion Dollar Mistake.
+- [x] ~~**1. Pointer Syntax:** `int *ptr`, `&` (Address of), `*` (Dereference).~~
+- [x] ~~**2. Pointer Arithmetic:** `ptr + 1` (Jumping by data type size).~~
+- [x] ~~**3. Pointers vs Arrays:** How `arr[i]` is actually `*(arr + i)`.~~
+- [x] ~~**4. Pointers to Pointers:** `**ptr` (Handling complex data).~~
+- [x] ~~**5. Function Arguments:** Pass by Reference vs Pass by Value.~~
+- [x] ~~**6. Dangling Pointers:** Accessing dead memory.~~
+- [x] ~~**7. NULL Pointers:** The Billion Dollar Mistake.~~
 
 ---
 
