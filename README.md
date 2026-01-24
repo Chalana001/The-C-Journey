@@ -44,14 +44,14 @@ Target: Reverse Engineering & Exploitation 🏴‍☠️
 
 ---
 
-### ⚠️ C-4. Arrays & Strings (THE VULNERABILITIES)
+### ✅ C-4. Arrays & Strings (THE VULNERABILITIES)
 *This feeds directly into exploitation later.*
-- [ ] **1. Arrays in Memory:** Contiguous blocks.
-- [ ] **2. Strings as Byte Arrays:** `char` arrays + `\0` (Null Terminator).
-- [ ] **3. `char*` vs `char[]`:** Read-only string literals vs Mutable arrays.
-- [ ] **4. Buffer Boundaries:** Lack of bounds checking in C.
-- [ ] **5. Off-by-one Errors:** The classic logic bug.
-- [ ] **6. Unsafe Functions:** `strcpy`, `gets` vs `strncpy`.
+- [x] ~~**1. Arrays in Memory:** Contiguous blocks.~~
+- [x] ~~**2. Strings as Byte Arrays:** `char` arrays + `\0` (Null Terminator).~~
+- [x] ~~**3. `char*` vs `char[]`:** Read-only string literals vs Mutable arrays.~~
+- [x] ~~**4. Buffer Boundaries:** Lack of bounds checking in C.~~
+- [x] ~~**5. Off-by-one Errors:** The classic logic bug.~~
+- [x] ~~**6. Unsafe Functions:** `strcpy`, `gets` vs `strncpy`.~~
 
 ---
 
