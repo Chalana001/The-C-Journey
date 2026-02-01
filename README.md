@@ -55,12 +55,12 @@ Target: Reverse Engineering & Exploitation 🏴‍☠️
 
 ---
 
-### 🏗️ C-5. Structs & Alignment (BINARY STRUCTURE)
+### ✅ C-5. Structs & Alignment (BINARY STRUCTURE)
 *Learning how binaries store data.*
-- [ ] **1. Struct Memory Layout:** How fields are packed.
-- [ ] **2. Padding & Alignment:** Why `char` + `int` != 5 bytes.
-- [ ] **3. Struct Pointers:** Accessing fields via `->`.
-- [ ] **4. Nested Structs:** Complex data shapes.
+- [x] ~~**1. Struct Memory Layout:** How fields are packed.~~
+- [x] ~~**2. Padding & Alignment:** Why `char` + `int` != 5 bytes.~~
+- [x] ~~**3. Struct Pointers:** Accessing fields via `->`.~~
+- [x] ~~**4. Nested Structs:** Complex data shapes.~~
 
 ---
 
