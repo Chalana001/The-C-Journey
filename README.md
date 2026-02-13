@@ -64,14 +64,14 @@ Target: Reverse Engineering & Exploitation 🏴‍☠️
 
 ---
 
-### 💣 C-6. Heap Management (MANUAL MODE)
+### ✅ C-6. Heap Management (MANUAL MODE)
 *These bugs = Security Gold.*
-- [ ] **1. Manual Allocation:** `malloc`, `calloc`.
-- [ ] **2. Resizing:** `realloc`.
-- [ ] **3. Manual Deallocation:** `free`.
-- [ ] **4. Memory Leaks:** Forgetting to free.
-- [ ] **5. Use-After-Free (UAF):** Accessing memory after `free()`.
-- [ ] **6. Double Free:** Crashing the allocator.
+- [x] ~~**1. Manual Allocation:** `malloc`, `calloc`.~~
+- [x] ~~**2. Resizing:** `realloc`.~~
+- [x] ~~**3. Manual Deallocation:** `free`.~~
+- [x] ~~**4. Memory Leaks:** Forgetting to free.~~
+- [x] ~~**5. Use-After-Free (UAF):** Accessing memory after `free()`.~~
+- [x] ~~**6. Double Free:** Crashing the allocator.~~
 
 ---
 
