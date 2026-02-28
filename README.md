@@ -77,10 +77,10 @@ Target: Reverse Engineering & Exploitation 🏴‍☠️
 
 ### ⚙️ C-7. Compilation & Linking (UNDER THE HOOD)
 *You now understand what a binary really is.*
-- [ ] **1. The Preprocessor:** Macros (`#define`), Conditional compilation.
-- [ ] **2. Object Files:** What is `.o`?
-- [ ] **3. Symbol Tables:** How functions find each other.
-- [ ] **4. Static vs Dynamic Linking:** `.a` vs `.so` / `.dll`.
+- [x] ~~**1. The Preprocessor:** Macros (`#define`), Conditional compilation.~~
+- [x] ~~**2. Object Files:** What is `.o`?~~
+- [x] ~~**3. Symbol Tables:** How functions find each other.~~
+- [x] ~~**4. Static vs Dynamic Linking:** `.a` vs `.so` / `.dll`.~~
 
 ---
 
